@@ -1,5 +1,5 @@
 
-![Logo](https://socialify.git.ci/mvishok/RainAPP/image?description=1&descriptionEditable=A%20Flutter%20(Dart)%20alerting%20app%20using%20Open-Meteo%20API%20to%20notify%20rain%20within%20the%20next%20hour&forks=1&issues=1&language=1&name=1&owner=1&pulls=1&stargazers=1&theme=Light)
+![Logo](https://socialify.git.ci/mvishok/RainAPP/image?description=1&descriptionEditable=A%20Flutter%20(Dart)%20alerting%20app%20using%20Open-Meteo%20API%20to%20notify%20rain%20within%09the%20next%20hour&forks=1&issues=1&language=1&name=1&owner=1&pulls=1&stargazers=1&theme=Light)
 # RainAPP
 
 RainAPP, built with Flutter (Dart), is a location-based alerting application that keeps you informed about imminent rainfall within the next hour. Using the Geolocator package, it retrieves your coordinates to provide hyper-local weather updates. Powered by the Open-Meteo API, you'll receive real-time weather information and timely alerts, ensuring you stay prepared for changing weather conditions in your specific region.
